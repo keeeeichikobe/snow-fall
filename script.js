@@ -21,7 +21,7 @@ const createSnow = () => {
       }, 10000);
 
 };
-setInterval(craeteSnow, 100);
+setInterval(createSnow, 100);
 
 
 
